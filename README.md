@@ -16,3 +16,6 @@ focus soley on the subcategory of plays.
 ## Total Outcomes for Plays (Theater Subcategory)
 
 <img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/subcategory_statistics.png" width="350" height="350">
+
+Overall, the success rate is still above 50% for plays, but campaigns in this subcategory are more likely to fail than campaigns within
+the parent category of 'Theater'.
