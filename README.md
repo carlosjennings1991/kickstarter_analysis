@@ -19,3 +19,9 @@ focus soley on the subcategory of plays.
 
 Overall, the success rate is still above 50% for plays, but campaigns in this subcategory are more likely to fail than campaigns within
 the parent category of 'Theater'.
+
+---
+
+Let's get a bit more granular. Our case study, Louise, wants to know when is the best time to launch her campaign for her play. Luckily, we have that info.
+
+<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/outcomes_based_on_launch_date.png" width="350" height="350">
