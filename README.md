@@ -25,3 +25,15 @@ the parent category of 'Theater'.
 Let's get a bit more granular. Our case study, Louise, wants to know when is the best time to launch her campaign for her play. Luckily, we have that info.
 
 <img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/outcomes_based_on_launch_date.png" width="350" height="350">
+
+Here we can see that May and June are the best times to launch a campaign for plays. 
+
+---
+
+## Conclusion
+
+Plays that failed often had loftier fundraising goals. It could be that when people donating, they like knowing their donation goes a long way i.e $100 for a play with a goal of $2000 is 5% of the total goal, but that is simply a hypothesis. 
+
+Another key takeaway is that successful campaigns had a much higher number of supporters (63 vs 8), while the donation amounts weren't that much different ($89 vs $73). 
+
+In sum, Louise should launch in May or June, try to bring the budget down as much as possible, and ask as many people as possible for donations. 
