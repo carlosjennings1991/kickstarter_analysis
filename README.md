@@ -4,4 +4,5 @@ For example, what was the average goal for a successful campaign, what was the a
 
 
 For example, the image below displays the outcomes for Theater campaigns. 
+
 <img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/parent_category_outcomes.png" width="350" height="350">
