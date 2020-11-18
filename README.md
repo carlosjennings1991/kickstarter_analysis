@@ -32,7 +32,7 @@ Here we can see that May and June are the best times to launch a campaign for pl
 
 ## Conclusion
 
-Plays that failed often had loftier fundraising goals. It could be that when people donating, they like knowing their donation goes a long way i.e $100 for a play with a goal of $2000 is 5% of the total goal, but that is simply a hypothesis. 
+Plays that failed often had loftier fundraising goals. It could be that when people are donating, they like knowing their donation goes a long way i.e $100 for a play with a goal of $2000 is 5% of the total goal, but that is simply a hypothesis. 
 
 Another key takeaway is that successful campaigns had a much higher number of supporters (63 vs 8), while the donation amounts weren't that much different ($89 vs $73). 
 
