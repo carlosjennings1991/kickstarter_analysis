@@ -68,3 +68,6 @@ While these don't impede your ability to analyze the data, it's certainly annoyi
 #### Challenges - Inconsistent Currency Denominations
 
 ![British Pound](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/British%20Pound.png)
+
+Most of the kickstarters were denominated in USD, but there were a significatn number that were either in British Pounds, Euros, Australian Dollars or others. Furthermore, when updating the data set to recognize the pledged, and goal columns, all rows show USD regardless of actual currency. 
+For this particular analysis, it only became an issue in the 'Goals vs Outcome' analysis, which looked at all plays, so plays with goals in multiple currencies were grouped into one chart. 
