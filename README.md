@@ -45,3 +45,12 @@ Generally, there is a negative correlation between funding goal and success rate
 
 The above chart shows the mean number of campaigns donators and how much they donated. Interestingly, the mean donation size between successful and failed campaigns is not that much, around $17 ($89 for successful and $72 for failed campaigns). The key difference was in the number of donators. Successful campaigns had nearly 8 times as many donators as unsuccesful campaigns. This suggests that campaigns do not succeed because of large donations but rather a broad base of small-dollar contributions. Given this finding, the success vs failure rate of campaigns seems to largely depend on the campaign owner's ability to market the campaign and engage with the pool of potential donators. 
 
+---
+### Analysis - Challenges
+
+This was a large dataset, and it did not come without issues, such as the following: 
+- Descriptions in other languages
+- Inconsistent currency denominations
+- Invalid Characters
+- Data Type Conversion Errors
+
