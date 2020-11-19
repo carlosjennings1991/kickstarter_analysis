@@ -41,5 +41,5 @@ Generally, there is a negative correlation between funding goal and success rate
 ---
 ### Analysis - Successful vs Failed Kickstarter Plays
 
-![Successful vs Failed Kickstarter Plays](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Successful_vs_Unsuccessful_Plays.png>
+![Successful vs Failed Kickstarter Plays](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Successful_vs_Unsuccessful_Plays.png)
 
