@@ -8,6 +8,8 @@ The subject for this analysis, Louise, is hoping to successfully raise enough mo
 
 The raw data for that analysis can be found here - ![Kickstarter_Challenge.xlsx](https://github.com/carlosjennings1991/Kickstarter_Challenge.xlsx)
 
+![Kickstarter_Challenge.xlsx](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx)
+
 ---
 ## Analysis and Challenges
 
