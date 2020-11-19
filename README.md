@@ -24,3 +24,7 @@ ___
 
 Louise wants to know if there's an optimal time to launch a campaign like hers. It turns out, there definitely is an ideal time - May, June and July, which have success rate far above the norm, especially May. Conversely, she should not launch a kickstarter for a play in December, where the success rate dips down almost to the failure rate. 
 
+The chart itself is a line graph detailing the three outcome statuses - Successful, Failure and Canceled, for each month for all Theater kickstarters, regardless of country, year, or fundraising goal. In tabular form, the data looks like this. 
+
+![Theater Outcomes Tabular Form](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/theater_outcomes_tabular.png)
+
