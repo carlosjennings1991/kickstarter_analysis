@@ -5,6 +5,8 @@ The subject for this analysis, Louise, is hoping to successfully raise enough mo
 - The success rate for plays overall.
 - When is the best time to launch her campaign.
 - How much she should ask for.
+
+The raw data for that analysis can be found here - [
 ---
 ## Analysis and Challenges
 
