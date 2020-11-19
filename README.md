@@ -54,6 +54,8 @@ This was a large dataset, and it did not come without issues, such as the follow
 - Invalid Characters
 - Data Type Conversion Errors
 
+---
+
 #### Descriptions in Other Languages
 
 ![Description in German](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Description_In_German_Screenshot.png)
