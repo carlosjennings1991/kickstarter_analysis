@@ -95,6 +95,17 @@ This was very frustrating at first, because these two columns were used in gener
 ---
 ## Results
 
-This analysis led a few key findings and a couple dead-ends. While the case study, Louise, should feel optimistic about being able to successfully reach her goal, the data set is slightly flawed. Secondly, 'Theater' as a broad category performs well overall, and while 'Plays' don't perform quite as well as its parent category, plays still outperform Kickstarter campaigns writ large. Just to give a snapshot of this, the chart below plots plays
+This analysis led a few key findings and a couple dead-ends. While the case study, Louise, should feel optimistic about being able to successfully reach her goal, the data set is slightly flawed due to an issue regarding currency conversions. Secondly, 'Theater' as a broad category performs well overall, and while 'Plays' don't perform quite as well as its parent category, plays still outperform Kickstarter campaigns writ large. Just to give a snapshot of this, the chart below plots plays against film & video, tech and games.
 
 ![Outcomes Across 4 Categories](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Outcomes_Across_Categories.png)
+
+As you can see, Plays do very well. There has to be a reason for this overperformance, and I believe it boils down to two variables:
+
+* Location of the Plays
+* The people running the Campaign
+
+Plays are location specific and they require a large crew of actors and technicians. Because they are location specific, they have an intrinsic community identity. Supporting your local theater has a greater community impact than supporting a game or tech idea. 
+
+Secondly, plays require a lot of people. Each one of those persons has a network of people they can ask for a donation. Even though the crew techs and actors may not be running the Kickstarter campaign, they can still help out. Plays may have a built in advantage since they can cast a wider net of potential supporters. 
+
+Thirdly, this overperformance might come down to personality type. The theater tends to belong to people with big, charismatic personalities. It takes a lot of guts to get on stage and perform in front of strangers. By this logic, the same people might be better at asking for donations vs those working in other non-theater related campaigns. However, this is purely anecdotal and hard to measure, but something must be behind this overperformance. 
