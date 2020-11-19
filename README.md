@@ -22,4 +22,4 @@ ___
 
 ![Theater Outcomes vs Launch](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="550" height="350">
+Louise wants to know if there's an optimal time to launch a campaign like hers. 
