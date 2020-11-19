@@ -94,3 +94,7 @@ This was very frustrating at first, because these two columns were used in gener
 
 ---
 ## Results
+
+This analysis led a few key findings and a couple dead-ends. While the case study, Louise, should feel optimistic about being able to successfully reach her goal, the data set is slightly flawed. Secondly, 'Theater' as a broad category performs well overall, and while 'Plays' don't perform quite as well as its parent category, plays still outperform Kickstarter campaigns writ large. Just to give a snapshot of this, the chart below plots plays
+
+![Outcomes Across 4 Categories](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Outcomes_Across_Categories.png)
