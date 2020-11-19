@@ -6,7 +6,7 @@ The subject for this analysis, Louise, is hoping to successfully raise enough mo
 - When is the best time to launch her campaign.
 - How much she should ask for.
 
-The raw data for that analysis can be found here - [
+The raw data for that analysis can be found here - [Kickstarter_Challenge.xlsx]
 ---
 ## Analysis and Challenges
 
