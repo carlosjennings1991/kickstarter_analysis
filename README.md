@@ -71,3 +71,17 @@ While these don't impede your ability to analyze the data, it's certainly annoyi
 
 Most of the kickstarters were denominated in USD, but there were a significatn number that were either in British Pounds, Euros, Australian Dollars or others. Furthermore, when updating the data set to recognize the pledged, and goal columns, all rows show USD regardless of actual currency. 
 For this particular analysis, it only became an issue in the 'Goals vs Outcome' analysis, which looked at all plays, so plays with goals in multiple currencies were grouped into one chart. 
+
+Fortunately, the vast majority of these campaigns were from countries with similarily valued currencies. However, there were 6 plays from Mexico, and they had a mean goal of $36,833. However, if that was meant to be 36,833 Mexican Pesos, it would convert to roughly $1,823 which seems much more likely. 
+
+This wasn't corrected, and it would be hard to accurately convert all these campaigns into one currency, all they are all floating point currencies that shift from day to day.
+
+---
+
+#### Challenges - Invalid Characters
+
+![Invalid Characters](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Invalid_Characters_Screenshot.png)
+
+This didn't affect the analysis, it's just annoying. 
+
+---
