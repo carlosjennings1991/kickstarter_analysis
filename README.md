@@ -28,3 +28,7 @@ The chart itself is a line graph detailing the three outcome statuses - Successf
 
 <img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/theater_outcomes_tabular.png" width="270" height="250">
 
+### Analysis - Outcomes Based on Goals
+
+![Outcomes Based on Goals](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
