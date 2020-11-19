@@ -67,6 +67,6 @@ While these don't impede your ability to analyze the data, it's certainly annoyi
 
 #### Challenges - Inconsistent Currency Denominations
 
-![British Pound])(https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Pound_Symbol_Screenshot.png)
+![British Pound](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Pound_Symbol_Screenshot.png)
 
 
