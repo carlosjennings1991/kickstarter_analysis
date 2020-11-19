@@ -22,4 +22,5 @@ ___
 
 ![Theater Outcomes vs Launch](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-Louise wants to know if there's an optimal time to launch a campaign like hers. It turns out, there definitely is an ideal time - May and June. 
+Louise wants to know if there's an optimal time to launch a campaign like hers. It turns out, there definitely is an ideal time - May, June and July, which have success rate far above the norm, especially May. Conversely, she should not launch a kickstarter for a play in December, where the success rate dips down almost to the failure rate. 
+
