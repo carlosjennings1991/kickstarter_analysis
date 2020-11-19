@@ -85,3 +85,7 @@ This wasn't corrected, and it would be hard to accurately convert all these camp
 This didn't affect the analysis, it's just annoying. 
 
 ---
+
+#### Challenges - Data Type Conversion Errors
+
+![Pound Symbol](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Pound_Symbol_Screenshot.png)
