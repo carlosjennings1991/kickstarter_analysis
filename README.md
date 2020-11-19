@@ -56,6 +56,7 @@ This was a large dataset, and it did not come without issues, such as the follow
 
 #### Descriptions in Other Languages
 
+![Description in German](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Description_In_German_Screenshot.png)
 While these don't impede your ability to analyze the data, it's certainly annoying, especially if you are trying to analyze the content of the campaign.
 
 
