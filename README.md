@@ -91,3 +91,6 @@ This didn't affect the analysis, it's just annoying.
 ![Data Conversion](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Data%20Conversion.png)
 
 This was very frustrating at first, because these two columns were used in generating two other columns of the data sheet. However, simply changing the data type from 'Time' to 'Number' solved the issue. 
+
+---
+## Results
