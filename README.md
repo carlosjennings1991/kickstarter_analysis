@@ -18,4 +18,6 @@ On the technical side of things, this analysis is accomplished mostly through pi
 
 ___
 
-### Launch Dates
+### Analysis - Launch Dates
+
+<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="350" height="350">
