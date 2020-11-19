@@ -54,3 +54,8 @@ This was a large dataset, and it did not come without issues, such as the follow
 - Invalid Characters
 - Data Type Conversion Errors
 
+#### Descriptions in Other Languages
+
+While these don't impede your ability to analyze the data, it's certainly annoying, especially if you are trying to analyze the content of the campaign.
+
+
