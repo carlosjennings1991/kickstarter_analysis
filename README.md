@@ -20,4 +20,4 @@ ___
 
 ### Analysis - Launch Dates
 
-<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="350" height="350">
+<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="550" height="350">
