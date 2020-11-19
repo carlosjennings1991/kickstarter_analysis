@@ -12,3 +12,8 @@ The raw data for that analysis can be found here - [Kickstarter_Challenge](https
 ---
 ## Analysis and Challenges
 
+In order to analyze the data with Louise's campaign in mind, we organize the excel file to focus on each area she cares about. There is a lot of data to consider, so reviewing how theater campaigns perform, when they best perform and how her specific type of theater campaign - a play, performs is very helpful to understand how her current campaign is doing. Secondly, most of the data belongs to campaigns that aren't plays or even theater related. While this may seem irrelevant, it's important to see how she is doing compared to all the other Kickstarter campaigns overall, because there is reason to be optimistic.
+
+How is this analysis accomplished? Mostly pivot tables and the charts generated from them. 
+
+First and foremost is launch date for campaigns. 
