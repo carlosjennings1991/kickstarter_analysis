@@ -108,4 +108,10 @@ Plays are location specific and they require a large crew of actors and technici
 
 Secondly, plays require a lot of people. Each one of those persons has a network of people they can ask for a donation. Even though the crew techs and actors may not be running the Kickstarter campaign, they can still help out. Plays may have a built in advantage since they can cast a wider net of potential supporters. 
 
-Thirdly, this overperformance might come down to personality type. The theater tends to belong to people with big, charismatic personalities. It takes a lot of guts to get on stage and perform in front of strangers. By this logic, the same people might be better at asking for donations vs those working in other non-theater related campaigns. However, this is purely anecdotal and hard to measure, but something must be behind this overperformance. 
+Thirdly, this overperformance might come down to personality type. The theater tends to belong to people with big, charismatic personalities. It takes a lot of guts to get on stage and perform in front of strangers. By this logic, the same people might be better at asking for donations vs those working in other non-theater related campaigns. **However this cannot be proven, and is purely conjecture.**
+
+There are a few concrete takeaways that are proven by the data, and they are detailed below.
+
+---
+
+
