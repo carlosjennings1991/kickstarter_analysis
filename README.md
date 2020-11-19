@@ -34,5 +34,12 @@ The chart itself is a line graph detailing the three outcome statuses - Successf
 ![Outcomes Based on Goals](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 Louise wants to know successful the play kickstarters with funding goals similar to hers fare overall. The above graph charts the success vs failure vs canceled rates for all kickstarter plays, broken into ranges determined by funding goals. If the chart looks like it is missing a line, it's because there were no canceled kickstarters for plays, so that line is just completely horizontal along the x-axis.
-Overall, she should take comfort in that most kickstarters of her subcategory with similar funding goals ultimately succeed. Generally, there is a negative correlation between funding goal and success rate. 
+Overall, she should take comfort in that most kickstarters of her subcategory with similar funding goals ultimately succeed. 
+
+Generally, there is a negative correlation between funding goal and success rate. As the goal becomes more expensive, the less likely the campaign is to succeed. However, there is an interesting reversal of this trend, between $35,000 and $44,999, where the success rate jumps to 67%. The reasons for this temporary reveral should be reviewed more closely. 
+
+---
+### Analysis - Successful vs Failed Kickstarter Plays
+
+![Successful vs Failed Kickstarter Plays](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Successful_vs_Unsuccessful_Plays.png>
 
