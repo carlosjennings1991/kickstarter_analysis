@@ -26,5 +26,5 @@ Louise wants to know if there's an optimal time to launch a campaign like hers. 
 
 The chart itself is a line graph detailing the three outcome statuses - Successful, Failure and Canceled, for each month for all Theater kickstarters, regardless of country, year, or fundraising goal. In tabular form, the data looks like this. 
 
-<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/theater_outcomes_tabular.png" width="250" height="250>
+<img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/theater_outcomes_tabular.png" width="250" height="250">
 
