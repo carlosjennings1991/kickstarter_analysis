@@ -114,4 +114,17 @@ There are a few concrete takeaways that are proven by the data, and they are det
 
 ---
 
+### Results - Theater Outcomes Are Influenced By Launch Date
 
+![Theater Outcomes vs Launch](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
+This concretely proven in the data, and contains three key takeaways. 
+
+* May, June and July are all well above average.
+* May is the best month
+* December is the worst month
+
+---
+### Results - Goals do effect Outcomes
+
+Again
