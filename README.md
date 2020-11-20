@@ -157,6 +157,24 @@ It would be extremely difficult to isolate inconsistent labeling, so it could be
 ---
 ### Results - Recommendations
 
+While the data includes a lot of great information that can inform the decisions for Louise and those like her, it leaves a lot to be desired. For one, it would be helpful to have the following as column in the data set. 
 
+* If the owner has done a kickstarter before.
+* If they have, if it was successful.
+* Number of people running the kickstarter.
+* Campaign owner's occupation.
+* Campaign owner's age. 
+* Campaign owner's social media platforms. 
+* Campaign owner's following on social media. 
+* Campaign owner's location
+* Number of people involved in campaign.
+
+Here is why ^those 8 criteria would be important. They would go a long way in explaining how they ran their kickstarters.
+For example, Theater performs very well as a category compared to the rest of the Kickstarter data set. The subcategory of Plays performs similarly well. This has to be explained by data not found in the data set. This discrepency could be due to the following. 
+
+* Those running Theater campaigns have the skills to better promote their campaign. 
+* They might have large social networks they could draw upon for support. 
+* They might skew younger and one can infer they might have better tech skills. 
+* Theater kickstarters might have a lot of people involved even if they aren't necessarily the campaign owner. 
 
 
