@@ -118,7 +118,7 @@ There are a few concrete takeaways that are proven by the data, and they are det
 
 ![Theater Outcomes vs Launch](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-This concretely proven in the data, and contains three key takeaways. 
+Outcomes are significantly affected by launch date, a fact concretely proven in the data, and contains three key takeaways. 
 
 * May, June and July are all well above average.
 * May is the best month
@@ -127,4 +127,11 @@ This concretely proven in the data, and contains three key takeaways.
 ---
 ### Results - Goals do effect Outcomes
 
-Again
+![Outcomes Based on Goals](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
+The second major finding is that the funding goals do affect outcomes, and provide two additional conclusions.
+
+* There is generally a negative correlation between funding goal and success, i.e the higher the funding goal, the less likely the campaign is to succeed. 
+* There is a temporary reversal of this trend between $35,000 and $44,999. 
+
+
