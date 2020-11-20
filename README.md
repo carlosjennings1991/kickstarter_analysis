@@ -169,12 +169,19 @@ While the data includes a lot of great information that can inform the decisions
 * Campaign owner's location
 * Number of people involved in campaign.
 
-Here is why ^those 8 criteria would be important. They would go a long way in explaining how they ran their kickstarters.
+Here is why ^those 8 criteria would be important. They would go a long way in explaining how the campaign owners ran their kickstarters.
 For example, Theater performs very well as a category compared to the rest of the Kickstarter data set. The subcategory of Plays performs similarly well. This has to be explained by data not found in the data set. This discrepency could be due to the following. 
 
-* Those running Theater campaigns have the skills to better promote their campaign. 
+* Those running Theater campaigns have the skills to better promote their campaign compared to the rest of kickstarter. 
 * They might have large social networks they could draw upon for support. 
 * They might skew younger and one can infer they might have better tech skills. 
 * Theater kickstarters might have a lot of people involved even if they aren't necessarily the campaign owner. 
+* Location would explain a lot, like if a campaign is for a community theater project in a wealthy area.
+
+---
+
+### Results - Conclusions
+
+Ultimately, the data set provides some interesting data, most notably in regards to time, funding goals, and category performance. However, these metrics only shed light on the outcome. There is little to explore how the campaign owners run their campaigns. More info on the people running the kickstarters would help inform the mechanics of running a successful campaign. 
 
 
