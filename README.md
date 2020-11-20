@@ -134,4 +134,22 @@ The second major finding is that the funding goals do affect outcomes, and provi
 * There is generally a negative correlation between funding goal and success, i.e the higher the funding goal, the less likely the campaign is to succeed. 
 * There is a temporary reversal of this trend between $35,000 and $44,999. 
 
+---
+### Results - Limitations within the Dataset
+
+While the dataset contains a lot of data, it is slightly flawed for two reasons. 
+
+* Inconsistent currency conversions
+* Inconsistent labeling
+
+The first flaw is detailed earlier in this analysis. The second flaw, inconsistent labeling, shows up across the data set and is difficult to structure. However, just a cursory glance yields a few examples. For instance, the screenshot below shows a TV kickstarter, that describes itself as Sci-Fi/Science Fiction. Even though there is a 'Science Fiction' subcategory within Film & Video, it looks to only apply to Movies that are Science Fiction. 
+
+* TV show example. 
+
+![Confusing Labeling](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Confusing%20Labeling.png)
+
+* Movie Example.
+
+![Confusing Labeling_2](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Confusing%20Labeling_2.png)
+
 
