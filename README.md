@@ -152,4 +152,11 @@ The first flaw is detailed earlier in this analysis. The second flaw, inconsiste
 
 ![Confusing Labeling_2](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Confusing%20Labeling_2.png)
 
+It would be extremely difficult to isolate inconsistent labeling, so it could be an extensive problem or the above examples could be an edge case. 
+
+---
+### Results - Recommendations
+
+
+
 
