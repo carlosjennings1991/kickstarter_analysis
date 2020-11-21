@@ -162,7 +162,9 @@ Based on existing data, there a couple graphs that could be included that would 
 * **A chart that plots Theater campaigns against all other Parent Categories.**
 * **A chart that plots Plays against all other Theater subcategories.**
 
+
 While the data includes a lot of great information that can inform the decisions for Louise and those like her, it leaves a lot to be desired. For one, it would be helpful to have the following as columns in the data set. 
+
 
 * If the owner has done a Kickstarter before.
 * If they have, if it was successful.
@@ -174,8 +176,10 @@ While the data includes a lot of great information that can inform the decisions
 * Campaign owner's location
 * Number of people involved in campaign.
 
+
 Here is why those 9 criteria would be important. They would go a long way in explaining *how* the campaign owners ran their Kickstarters.
 For example, Theater performs very well as a category compared to the rest of the Kickstarter data set. The subcategory of Plays performs similarly well. This has to be explained by data not found in the data set. This discrepency could be due to the following. 
+
 
 * Those running Theater campaigns have the skills to better promote their campaign compared to the rest of Kickstarter. 
 * They might have large social networks they could draw upon for support. 
