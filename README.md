@@ -142,7 +142,7 @@ While the dataset contains a lot of data, it is slightly flawed for two reasons.
 * Inconsistent currency conversions
 * Inconsistent labeling
 
-The first flaw is detailed earlier in this analysis. The second flaw, inconsistent labeling, shows up across the data set and it is difficult to isolate the effected rows from the rest of the data. However, just a cursory glance yields a few examples. For instance, the screenshot below shows a TV kickstarter, that describes itself as Sci-Fi/Science Fiction. Even though there is a 'Science Fiction' subcategory within Film & Video, it looks to only apply to Movies that are Science Fiction. 
+The first flaw is detailed earlier in this analysis. The second flaw, inconsistent labeling, shows up across the data set and it is difficult to isolate the effected rows from the rest of the data. However, just a cursory glance will yield a few examples. For instance, the screenshot below shows a TV kickstarter, that describes itself as Sci-Fi/Science Fiction. Even though there is a 'Science Fiction' subcategory within Film & Video, it looks to only apply to Movies that are Science Fiction. 
 
 * TV show example. 
 
