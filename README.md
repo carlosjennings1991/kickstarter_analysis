@@ -175,12 +175,10 @@ While the data includes a lot of great information that can inform the decisions
 * Campaign owner's following on social media. 
 * Campaign owner's location
 * Number of people involved in campaign.
-
 <br></br>
 Here is why those 9 criteria would be important. They would go a long way in explaining *how* the campaign owners ran their Kickstarters.
 For example, Theater performs very well as a category compared to the rest of the Kickstarter data set. The subcategory of Plays performs similarly well. This has to be explained by data not found in the data set. This discrepency could be due to the following. 
-
-
+<br></br>
 * Those running Theater campaigns have the skills to better promote their campaign compared to the rest of Kickstarter. 
 * They might have large social networks they could draw upon for support. 
 * They might skew younger and one can infer they might have better tech/marketing skills. 
