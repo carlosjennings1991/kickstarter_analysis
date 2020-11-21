@@ -43,7 +43,7 @@ Generally, there is a negative correlation between funding goal and success rate
 
 ![Successful vs Failed Kickstarter Plays](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Successful_vs_Unsuccessful_Plays.png)
 
-The above chart shows the mean number of campaigns donators and how much they donated. Interestingly, the mean donation size between successful and failed campaigns is not that much, around $17 ($89 for successful and $72 for failed campaigns). The key difference was in the number of donators. Successful campaigns had nearly 8 times as many donators as unsuccesful campaigns. This suggests that campaigns do not succeed because of large donations but rather a broad base of small-dollar contributions. Given this finding, the success vs failure rate of campaigns seems to largely depend on the campaign owner's ability to market the campaign and engage with the pool of potential donators. 
+The above chart shows the mean number of campaigns donators and how much they donated. Interestingly, the difference in mean donation size between successful and failed campaigns is not that much, around $17 ($89 for successful and $72 for failed campaigns). The key difference was in the number of donators. Successful campaigns had nearly 8 times as many donators as unsuccesful campaigns. This suggests that campaigns do not succeed because of large donations but rather a broad base of contributions. Given this finding, the success vs failure rate of campaigns seems to largely depend on the campaign owner's ability to market the campaign and engage with the pool of potential donators. 
 
 ---
 ### Analysis - Challenges
@@ -69,12 +69,12 @@ While these don't impede your ability to analyze the data, it's certainly annoyi
 
 ![British Pound](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/British%20Pound.png)
 
-Most of the Kickstarters were denominated in USD, but there were a significant number that were either in British Pounds, Euros, Australian Dollars or others. Furthermore, when updating the data set to recognize the pledged, and goal columns, all rows show USD regardless of actual currency. 
+Most of the Kickstarters were denominated in US Dollars, but there were a significant number that were either in British Pounds, Euros, Australian Dollars or others. Furthermore, when updating the data set to recognize the pledged, and goal columns, all rows show USD regardless of actual currency. 
 For this particular analysis, it only became an issue in the 'Goals vs Outcome' analysis, which looked at all plays, so plays with goals in multiple currencies were grouped into one chart. 
 
-Fortunately, the vast majority of these campaigns were from countries with similarily valued currencies. However, there were 6 plays from Mexico, and they had a mean goal of $36,833. However, if that was meant to be 36,833 Mexican Pesos, it would convert to roughly $1,823 which seems much more likely. 
+Fortunately, the vast majority of these campaigns were from countries with similarily valued currencies. However, there were 6 plays from Mexico, and they had a mean goal of $36,833. However, if that was meant to be 36,833 Mexican Pesos, it would convert to roughly $1,823. 
 
-This wasn't corrected, and it would be hard to accurately convert all these campaigns into one currency, all they are all floating point currencies that shift from day to day.
+The extent of this issue was not thoroughly examined and remains uncorrected. If one were to correct this issue, they would have to look at the average value of the other currency during the time of the Kickstarter campaign and convert it to dollars. 
 
 ---
 
