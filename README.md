@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns.
 
-In this analysis, kickstarter campaigns are analyzed by category, subcategory, success rates and launch date. 
+In this analysis, Kickstarter campaigns are analyzed by category, subcategory, success rates and launch date. 
 The subject for this analysis, Louise, is hoping to successfully raise enough money for her play *Fever*. She has already come close to her goal of £4,000 but she wants to understand three key issues:
 
 - When is the best time to launch a Theater campaign.
@@ -22,9 +22,9 @@ ___
 
 ![Theater Outcomes vs Launch](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-Louise wants to know if there's an optimal time to launch a campaign like hers. It turns out, there definitely is an ideal time - May, June and July, which have success rate far above the norm, especially May. Conversely, she should not launch a kickstarter for a play in December, where the success rate dips down almost to the failure rate. 
+Louise wants to know if there's an optimal time to launch a campaign like hers. It turns out, there definitely is an ideal time - May, June and July, which have success rate far above the norm, especially May. Conversely, she should not launch a Kickstarter for a play in December, where the success rate dips down almost to the failure rate. 
 
-The chart itself is a line graph detailing the three outcome statuses - Successful, Failure and Canceled, for each month for all Theater kickstarters, regardless of country, year, or fundraising goal. In tabular form, the data looks like this. 
+The chart itself is a line graph detailing the three outcome statuses - Successful, Failure and Canceled, for each month for all Theater Kickstarters, regardless of country, year, or fundraising goal. In tabular form, the data looks like this. 
 
 <img src="https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/theater_outcomes_tabular.png" width="270" height="250">
 
@@ -33,8 +33,8 @@ The chart itself is a line graph detailing the three outcome statuses - Successf
 
 ![Outcomes Based on Goals](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
-Louise wants to know successful the play kickstarters with funding goals similar to hers fare overall. The above graph charts the success vs failure vs canceled rates for all kickstarter plays, broken into ranges determined by funding goals. If the chart looks like it is missing a line, it's because there were no canceled kickstarters for plays, so that line is just completely horizontal along the x-axis.
-Overall, she should take comfort in that most kickstarters of her subcategory with similar funding goals ultimately succeed. 
+Louise wants to know successful the play Kickstarters with funding goals similar to hers fare overall. The above graph charts the success vs failure vs canceled rates for all Kickstarter plays, broken into ranges determined by funding goals. If the chart looks like it is missing a line, it's because there were no canceled Kickstarters for plays, so that line is just completely horizontal along the x-axis.
+Overall, she should take comfort in that most Kickstarters of her subcategory with similar funding goals ultimately succeed. 
 
 Generally, there is a negative correlation between funding goal and success rate. As the goal becomes more expensive, the less likely the campaign is to succeed. However, there is an interesting reversal of this trend, between $35,000 and $44,999, where the success rate jumps to 67%. The reasons for this temporary reversal should be reviewed more closely. 
 
@@ -69,7 +69,7 @@ While these don't impede your ability to analyze the data, it's certainly annoyi
 
 ![British Pound](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/British%20Pound.png)
 
-Most of the kickstarters were denominated in USD, but there were a significatn number that were either in British Pounds, Euros, Australian Dollars or others. Furthermore, when updating the data set to recognize the pledged, and goal columns, all rows show USD regardless of actual currency. 
+Most of the Kickstarters were denominated in USD, but there were a significant number that were either in British Pounds, Euros, Australian Dollars or others. Furthermore, when updating the data set to recognize the pledged, and goal columns, all rows show USD regardless of actual currency. 
 For this particular analysis, it only became an issue in the 'Goals vs Outcome' analysis, which looked at all plays, so plays with goals in multiple currencies were grouped into one chart. 
 
 Fortunately, the vast majority of these campaigns were from countries with similarily valued currencies. However, there were 6 plays from Mexico, and they had a mean goal of $36,833. However, if that was meant to be 36,833 Mexican Pesos, it would convert to roughly $1,823 which seems much more likely. 
@@ -106,9 +106,9 @@ As you can see, Plays do very well. There has to be a reason for this overperfor
 
 Plays are location specific and they require a large crew of actors and technicians. Because they are location specific, they have an intrinsic community identity. Supporting your local theater has a greater community impact than supporting a game or tech idea. 
 
-Secondly, plays require a lot of people. Each one of those persons has a network of people they can ask for a donation. Even though the crew techs and actors may not be running the Kickstarter campaign, they can still help out. Plays may have a built in advantage since they can cast a wider net of potential supporters. 
+Secondly, plays require a lot of people. Each one of those persons has a network of people they can ask for a donation. Even though the crew techs and actors may not be running the Kickstarter campaign, they can still help out. Plays may have a built-in advantage since they can cast a wider net of potential supporters. 
 
-Thirdly, this overperformance might come down to personality type. The theater tends to belong to people with big, charismatic personalities. It takes a lot of guts to get on stage and perform in front of strangers. By this logic, the same people might be better at asking for donations vs those working in other non-theater related campaigns. **However this cannot be proven, and is purely conjecture.**
+Thirdly, this overperformance might come down to personality type. The theater tends to belong to people with big, charismatic personalities. It takes a lot of guts to get on stage and perform in front of strangers. By this logic, the same people might be better at asking for donations vs those working in other non-theater related campaigns. **However this cannot be proven and is purely conjecture.**
 
 There are a few concrete takeaways that are proven by the data, and they are detailed below.
 
@@ -118,11 +118,11 @@ There are a few concrete takeaways that are proven by the data, and they are det
 
 ![Theater Outcomes vs Launch](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-Outcomes are significantly affected by launch date, a fact concretely proven in the data, and contains three key takeaways. 
+Outcomes are significantly affected by launch date, a fact concretely proven in the data. This conclusion contains three key takeaways. 
 
-* May, June and July are all well above average.
-* May is the best month
-* December is the worst month
+* May, June and July have success rates well above average.
+* May is the best month to launch a play.
+* December is the worst month to launch a play.
 
 ---
 ### Results - Goals do effect Outcomes
@@ -142,7 +142,7 @@ While the dataset contains a lot of data, it is slightly flawed for two reasons.
 * Inconsistent currency conversions
 * Inconsistent labeling
 
-The first flaw is detailed earlier in this analysis. The second flaw, inconsistent labeling, shows up across the data set and is difficult to structure. However, just a cursory glance yields a few examples. For instance, the screenshot below shows a TV kickstarter, that describes itself as Sci-Fi/Science Fiction. Even though there is a 'Science Fiction' subcategory within Film & Video, it looks to only apply to Movies that are Science Fiction. 
+The first flaw is detailed earlier in this analysis. The second flaw, inconsistent labeling, shows up across the data set and it is difficult to isolate the effected rows from the rest of the data. However, just a cursory glance yields a few examples. For instance, the screenshot below shows a TV kickstarter, that describes itself as Sci-Fi/Science Fiction. Even though there is a 'Science Fiction' subcategory within Film & Video, it looks to only apply to Movies that are Science Fiction. 
 
 * TV show example. 
 
@@ -157,11 +157,11 @@ It would be extremely difficult to isolate inconsistent labeling, so it could be
 ---
 ### Results - Recommendations
 
-While the data includes a lot of great information that can inform the decisions for Louise and those like her, it leaves a lot to be desired. For one, it would be helpful to have the following as column in the data set. 
+While the data includes a lot of great information that can inform the decisions for Louise and those like her, it leaves a lot to be desired. For one, it would be helpful to have the following as columns in the data set. 
 
-* If the owner has done a kickstarter before.
+* If the owner has done a Kickstarter before.
 * If they have, if it was successful.
-* Number of people running the kickstarter.
+* Number of people running the Kickstarter.
 * Campaign owner's occupation.
 * Campaign owner's age. 
 * Campaign owner's social media platforms. 
@@ -169,12 +169,12 @@ While the data includes a lot of great information that can inform the decisions
 * Campaign owner's location
 * Number of people involved in campaign.
 
-Here is why ^those 8 criteria would be important. They would go a long way in explaining how the campaign owners ran their kickstarters.
+Here is why those 8 criteria would be important. They would go a long way in explaining how the campaign owners ran their Kickstarters.
 For example, Theater performs very well as a category compared to the rest of the Kickstarter data set. The subcategory of Plays performs similarly well. This has to be explained by data not found in the data set. This discrepency could be due to the following. 
 
-* Those running Theater campaigns have the skills to better promote their campaign compared to the rest of kickstarter. 
+* Those running Theater campaigns have the skills to better promote their campaign compared to the rest of Kickstarter. 
 * They might have large social networks they could draw upon for support. 
-* They might skew younger and one can infer they might have better tech skills. 
+* They might skew younger and one can infer they might have better tech/marketing skills. 
 * Theater kickstarters might have a lot of people involved even if they aren't necessarily the campaign owner. 
 * Location would explain a lot, like if a campaign is for a community theater project in a wealthy area.
 
@@ -182,6 +182,6 @@ For example, Theater performs very well as a category compared to the rest of th
 
 ### Results - Conclusions
 
-Ultimately, the data set provides some interesting data, most notably in regards to time, funding goals, and category performance. However, these metrics only shed light on the outcome. There is little to explore how the campaign owners run their campaigns. More info on the people running the kickstarters would help inform the mechanics of running a successful campaign. 
+Ultimately, the data set provides some interesting data, most notably in regards to time, funding goals, and category performance. However, these metrics only shed light on the outcome. There is little to explore how the campaign owners run their campaigns. More info on the people running the Kickstarters would help inform the mechanics of running a successful campaign. 
 
 
