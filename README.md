@@ -157,6 +157,11 @@ It would be extremely difficult to isolate inconsistent labeling since one would
 ---
 ### Results - Recommendations
 
+Based on existing data, there a couple graphs that could be included that would help Louise. 
+
+* **A chart that plots Theater campaigns against all other Parent Categories.
+* **A chart that plots Plays against all other Theater subcategories.
+
 While the data includes a lot of great information that can inform the decisions for Louise and those like her, it leaves a lot to be desired. For one, it would be helpful to have the following as columns in the data set. 
 
 * If the owner has done a Kickstarter before.
