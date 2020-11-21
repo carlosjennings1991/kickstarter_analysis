@@ -7,7 +7,7 @@ The subject for this analysis, Louise, is hoping to successfully raise enough mo
 - The success rate for plays overall.
 - How the goal affects the outcome.
 
-The raw data for that analysis can be found here - [Kickstarter_Challenge](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx)
+The data for this analysis can be found here - [Kickstarter_Challenge](https://github.com/carlosjennings1991/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ---
 ## Analysis and Challenges
